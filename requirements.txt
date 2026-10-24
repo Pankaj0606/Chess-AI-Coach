@@ -1,0 +1,5 @@
+chess
+requests
+groq
+python-dotenv
+tabulatestreamlit
